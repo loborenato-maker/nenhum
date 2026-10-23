@@ -19,7 +19,7 @@ y=140
 for line in ["Testosterona baixa:","sinais que merecem","investigação"]:
     d.text((M,y),line,font=ts,fill=CREAM); y+=74
 y+=30
-items=["Cansaço persistente e pouca energia","Queda de libido e da função sexual","Perda de força e de massa muscular","Aumento de gordura abdominal","Alterações de humor, foco e sono"]
+items=["Cansaço persistente e pouca energia","Queda de libido e de disposição","Perda de força e de massa muscular","Aumento de gordura abdominal","Alterações de humor, foco e sono"]
 fi=f("Inter-Regular.otf",30)
 for it in items:
     d.ellipse([M,y+11,M+14,y+25],fill=GOLD)
@@ -32,5 +32,5 @@ d.text((M,H-85),"CLÍNICA SCULPTÉ",font=f("Inter-SemiBold.otf",26),fill=GOLD)
 d.text((M,H-50),"Jardim Paulista · São Paulo",font=f("Inter-Regular.otf",20),fill=MUTED)
 r="Dr. Renato Lobo · Médico pela USP"; fr=f("Inter-Regular.otf",22)
 d.text((W-M-d.textlength(r,font=fr),H-70),r,font=fr,fill=CREAM)
-out=os.path.join(os.path.dirname(__file__),"testosterona-baixa-sintomas-gmb.jpg")
+out=os.path.join(os.path.dirname(os.path.abspath(__file__)),"testosterona-baixa-sintomas-gmb-v2.jpg")
 img.save(out,quality=92); print(out, os.path.getsize(out))
