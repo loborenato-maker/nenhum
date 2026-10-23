@@ -15,6 +15,6 @@ Agende sua avaliação pelo WhatsApp.
 ---
 CTA: LEARN_MORE (Saiba mais)
 URL: https://wa.me/5511939258411?text=Ol%C3%A1!+Vim+pelo+Google+e+gostaria+de+agendar+uma+avalia%C3%A7%C3%A3o+hormonal+e+saber+mais+sobre+reposi%C3%A7%C3%A3o+de+testosterona+com+o+Dr+Renato+Lobo
-Imagem: https://raw.githubusercontent.com/loborenato-maker/nenhum/473a84205d9cd35660461da775fbc14d6a4ed6fb/gmb-posts/2026-11-02-testosterona/testosterona-baixa-sintomas-gmb-v2.jpg
+Imagem: https://raw.githubusercontent.com/loborenato-maker/nenhum/6499dc0eda8cefa7ac9ddc1929a378e10f07e73e/gmb-posts/2026-11-02-testosterona/testosterona-baixa-sintomas-gmb-v2.jpg
 Locais: locations/8521305548668490201 (Clínica Sculpté) e locations/9167255015988257033 (Dr Renato Lobo - Clínica Sculpté)
-Publicação: 02/11/2026, 09:00 (horário de Brasília)
+Publicação: 23/10/2026 (teste, publicado imediatamente)
